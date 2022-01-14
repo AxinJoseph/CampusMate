@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "46045158063",
+    "project_id": "campusmate-abc93",
+    "storage_bucket": "campusmate-abc93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46045158063:android:62e606bca0ba0c58d4125a",
+        "android_client_info": {
+          "package_name": "com.project.campusmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46045158063-htua5tsp6t9opvk9eo0tjrnrq15e7lrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.campusmate",
+            "certificate_hash": "99da44f6b03dd55f1d01956418bd8b4115e559cf"
+          }
+        },
+        {
+          "client_id": "46045158063-3a1i8334vhb7jiklfag6oh8v2i88oeo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0aXRlK-qYGIeA_36ibCg41K36IdLYmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46045158063-3a1i8334vhb7jiklfag6oh8v2i88oeo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
